@@ -1,4 +1,4 @@
-FROM: anapsix/alpine-java:8_jdk_unlimited
+FROM anapsix/alpine-java:8_jdk_unlimited
 
 # Installs Ant
 ENV ANT_VERSION 1.10.1
